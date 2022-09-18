@@ -7,6 +7,4 @@
 - ⚡ Fun fact: I love to see film and listen music
 
 
-## Contact
-
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />      
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alu0101329161&theme=dark&hide_border=true&border_radius=4.7&date_format=j%20M%5B%20Y%5D&stroke=DD2727)](https://git.io/streak-stats)
