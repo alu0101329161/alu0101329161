@@ -7,4 +7,6 @@
 - ⚡ Fun fact: I love to see film and listen music
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alu0101329161&theme=dark&hide_border=true&border_radius=4.7&date_format=j%20M%5B%20Y%5D&stroke=DD2727)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=alu0101329161&theme=dark-smoky&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+[![](https://visitcount.itsvg.in/api?id=alu0101329161&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
